@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tourset/static/css/main.ddad0e6a.css",
-    "main.js": "/tourset/static/js/main.238da06c.js",
+    "main.js": "/tourset/static/js/main.b8272edb.js",
     "static/js/787.8a220983.chunk.js": "/tourset/static/js/787.8a220983.chunk.js",
     "static/media/sub-page.png": "/tourset/static/media/sub-page.40b8d9205e46bb2f5b7d.png",
     "static/media/slide-1.png": "/tourset/static/media/slide-1.21d063f1fda0660fa6b5.png",
@@ -24,11 +24,11 @@
     "static/media/bootstrap-icons.woff2?": "/tourset/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "index.html": "/tourset/index.html",
     "main.ddad0e6a.css.map": "/tourset/static/css/main.ddad0e6a.css.map",
-    "main.238da06c.js.map": "/tourset/static/js/main.238da06c.js.map",
+    "main.b8272edb.js.map": "/tourset/static/js/main.b8272edb.js.map",
     "787.8a220983.chunk.js.map": "/tourset/static/js/787.8a220983.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddad0e6a.css",
-    "static/js/main.238da06c.js"
+    "static/js/main.b8272edb.js"
   ]
 }
