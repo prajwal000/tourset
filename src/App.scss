@@ -1,0 +1,304 @@
+$brand: #009E9D;
+$footer: #18233E;
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Comforter+Brush&family=Heebo:wght@300;400;500;700;800&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Heebo', sans-serif;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    
+    text-decoration: none;
+    color: #000;
+}
+.Nav {
+    background: $brand;
+    color: #fff !important;
+    max-width: 100%;
+
+    .nav-link {
+        font-size: 17px;
+
+    }
+
+    .btn {
+        background: #fff;
+        color: $brand;
+        font-size: 17px;
+        font-weight: bold;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 17px;
+        padding-right: 17px;
+
+        &:hover {
+            border: 1px solid #fff;
+            background: $brand;
+            color: #fff;
+
+        }
+    }
+
+}
+
+footer {
+
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #18233E;
+    color: #fff;
+
+    .footer-links {
+        color: #ccc;
+
+        &:hover {
+            color: #fff;
+        }
+    }
+
+    .email {
+        width: 500px;
+        height: 60px;
+    }
+
+    .f-btn {
+        background: $brand;
+        color: #fff;
+        font-size: 17px;
+        font-weight: bold;
+        padding-top: 17px;
+        padding-bottom: 18px;
+        left: 384px;
+        border: 0px !important;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 5px;
+    }
+}
+
+.hero-1 {
+    font-family: 'Comforter Brush', cursive;
+    font-size: 34px;
+    color: #FDC704;
+
+
+}
+
+.hero-txt {
+    font-family: 'Abril Fatface', cursive;
+    color: rgb(25, 36, 63);
+    font-size: 60px;
+}
+.hero-text {
+    font-family: 'Abril Fatface', cursive;
+    color: rgb(25, 36, 63);
+   
+}
+
+.hero-2 {
+    font-family: 'Heebo', sans-serif;
+    color:#888888;
+    font-size: 17px;
+
+}
+
+.hero-btn {
+    font-weight: bold;
+    color: #fff;
+    font-size: 16px;
+    padding: 15px 25px;
+    background: $brand;
+
+    &:hover {
+        background: #fff;
+        color: $brand;
+        border: 1px solid $brand;
+
+    }
+}
+
+.hero-content {
+    padding-top: 100px;
+}
+
+.hero-btn-2 {
+    font-weight: bold;
+    color: #000;
+    font-size: 16px;
+    padding: 15px 25px;
+    border: 1px solid #656262;
+
+    &:hover {
+        color: $brand;
+        border: 1px solid $brand;
+    }
+}
+
+.banner-shape1 {
+    width: 50px;
+    left: 1250px;
+    top: 200px;
+    animation: spin 4s linear infinite;
+
+
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.banner-shape-2 {
+    left: 550px;
+    top: 150px;
+
+    animation: spin 4s linear infinite;
+
+}
+
+.banner-shape-3 {
+    left: 550px;
+    top: 600px;
+
+    animation: spin 4s linear infinite;
+
+}
+
+.hero-banner-1 {
+    background-color: #FCFCFC;
+}
+.img-txt-upper{
+    font-family: 'Comforter Brush', cursive;
+    color: #FDC704;
+    font-size: 30px;
+    bottom: 50px;
+    left: 20px;
+    font-weight: bold;
+}
+.img-txt-lower{
+    font-family: 'Abril Fatface', cursive;
+    color: #fff;
+    font-size: 30px;
+    left: 20px;
+    bottom: 20px;
+}
+.zoom{
+    overflow: hidden;
+    position: relative;
+   
+    .zoom-img{
+        transition: all 0.3s;
+        display: block;
+        transform: scale(1);
+        border-radius: 10px;
+        
+        &:hover{
+            transform: scale(1.2);
+           
+            
+           
+        }
+    }
+}
+.about-icon{
+   background: #009E9D;
+   padding: 8px 16px;
+   
+}
+.about-text{
+    color: #777777;
+}
+.banner-about{
+    background-image: url(images/about.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bi-play-circle-fill{
+    font-size: 60px;
+    color: $brand;
+}
+.brand{
+    color: $brand;
+}
+.social{
+    color: #afa8a8;
+    padding: 10px;
+    &:hover{
+        color: $brand;
+    }
+}
+.about-us-top{
+    background-image: url(images/sub-page.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    .sub-color{
+        background-color: $brand;
+        opacity: 0.87;
+    }
+}
+.card-title{
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.2s;
+    &:hover{
+        color: $brand;
+    }
+}
+.readmore{
+    font-size: 16px;
+    font-weight: bold;
+    color: $brand;
+    &:hover{
+        color: #000;
+    }
+}
+.author-txt{
+    font-size: 14px;
+    color: #afa8a8;
+   
+}
+.heading{
+    font-size: 24px;
+    font-weight: bold;
+}
+.bg-brand
+{
+    background: #D6EEED;
+}
+.text-input{
+    padding: 20px;
+    width:100%;
+}
+.hero-txt-1 {
+    font-family: 'Abril Fatface', cursive;
+    color: rgb(25, 36, 63);
+    font-size: 40px;
+}
+.phone{
+    font-size: 30px;
+    color: #fff;
+}
+.contact-icon{
+    background: $brand;
+    padding:12px 17px;
+   
+}
+.contact-text{
+    font-size: 20px;
+    font-weight: bold;
+}
+.email{
+    &:hover{
+        color: $brand;
+    }
+}
