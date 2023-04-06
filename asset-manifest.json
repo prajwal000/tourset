@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/tourset/static/css/main.ddad0e6a.css",
+    "main.js": "/tourset/static/js/main.238da06c.js",
+    "static/js/787.8a220983.chunk.js": "/tourset/static/js/787.8a220983.chunk.js",
+    "static/media/sub-page.png": "/tourset/static/media/sub-page.40b8d9205e46bb2f5b7d.png",
+    "static/media/slide-1.png": "/tourset/static/media/slide-1.21d063f1fda0660fa6b5.png",
+    "static/media/2.png": "/tourset/static/media/2.df5a909d78d441bce3a1.png",
+    "static/media/1 (1).png": "/tourset/static/media/1 (1).a767ed797c039cfd6793.png",
+    "static/media/1.png": "/tourset/static/media/1.337ada680003d7485448.png",
+    "static/media/about.png": "/tourset/static/media/about.b25d1c50643bc992daf1.png",
+    "static/media/slide-3.png": "/tourset/static/media/slide-3.a76c54f00a1620a4b8d7.png",
+    "static/media/contact-img.png": "/tourset/static/media/contact-img.bf02db74005fad02906b.png",
+    "static/media/slide-2.png": "/tourset/static/media/slide-2.60fba14e4b7200d45d92.png",
+    "static/media/1 (2).png": "/tourset/static/media/1 (2).8dcb68c2c68c6a519d43.png",
+    "static/media/footer-bg.png": "/tourset/static/media/footer-bg.9986d857369d6006d35c.png",
+    "static/media/team2.png": "/tourset/static/media/team2.7c3b9a79e96199a5bd92.png",
+    "static/media/team3.png": "/tourset/static/media/team3.923bb85861a4f405b177.png",
+    "static/media/3.png": "/tourset/static/media/3.01439e3c3ed633d4afe5.png",
+    "static/media/4.png": "/tourset/static/media/4.15f9db60c379591d6827.png",
+    "static/media/5.png": "/tourset/static/media/5.57d417c2868b7f4ece87.png",
+    "static/media/bootstrap-icons.woff?": "/tourset/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/team1.png": "/tourset/static/media/team1.083ac0fa84bf239e7f5e.png",
+    "static/media/bootstrap-icons.woff2?": "/tourset/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/tourset/index.html",
+    "main.ddad0e6a.css.map": "/tourset/static/css/main.ddad0e6a.css.map",
+    "main.238da06c.js.map": "/tourset/static/js/main.238da06c.js.map",
+    "787.8a220983.chunk.js.map": "/tourset/static/js/787.8a220983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddad0e6a.css",
+    "static/js/main.238da06c.js"
+  ]
+}
